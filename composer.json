@@ -1,0 +1,17 @@
+{
+    "name": "iifa/saurabh",
+    "autoload": {
+        "psr-4": {
+            "Iifa\\Saurabh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saurabh kumar",
+            "email": "saurabhkumargga@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
